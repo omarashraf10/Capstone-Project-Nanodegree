@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Capstone Simulator
+Path=/opt/carndcapstone/linux_sys_int/
+Exec=vglrun bash -c "cd /opt/carndcapstone/linux_sys_int/ && ./sys_int.x86_64"
+Terminal=false
+Type=Application
